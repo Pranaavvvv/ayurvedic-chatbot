@@ -32,7 +32,7 @@ logging.basicConfig(
 )
 
 
-GOOGLE_API_KEY = AIzaSyAeW-u0NYxcdvC5kOSH94svVsMfqVM3UKg
+GOOGLE_API_KEY = "AIzaSyAeW-u0NYxcdvC5kOSH94svVsMfqVM3UKg"
 if not GOOGLE_API_KEY:
     raise ValueError("GOOGLE_API_KEY not found in environment variables")
 genai.configure(api_key=GOOGLE_API_KEY)
