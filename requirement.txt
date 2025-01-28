@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
+faiss-cpu
+pypdf
+tqdm
+pdf2image
+pytesseract
+plotly
+streamlit-lottie
+requests
+unstructured
+typing-extensions
+pillow
+beautifulsoup4
